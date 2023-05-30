@@ -1,0 +1,20 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "", 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anish2452s/react-project.git"
+  },
+  "keywords": [ 
+  ],
+  "author": "Anish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anish2452s/react-project/issues"
+  },
+  "homepage": "https://github.com/anish2452s/react-project#readme"
+}
